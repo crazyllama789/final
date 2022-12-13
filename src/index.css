@@ -5,9 +5,109 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(76, 114, 168);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Bayon';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./fonts/bayon-v29-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./fonts/bayon-v29-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./fonts/bayon-v29-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./fonts/bayon-v29-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./fonts/bayon-v29-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./fonts/bayon-v29-latin-regular.svg#Bayon') format('svg'); /* Legacy iOS */
+}
+  /* bree-serif-regular - latin */
+  @font-face {
+    font-family: 'Bree Serif';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./fonts/bree-serif-v17-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('./fonts/bree-serif-v17-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./fonts/bree-serif-v17-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./fonts/bree-serif-v17-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./fonts/bree-serif-v17-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./fonts/bree-serif-v17-latin-regular.svg#BreeSerif') format('svg'); /* Legacy iOS */
+  }
+
+
+  h1{
+    font-family: 'Bree Serif';
+    color: rgb(87, 87, 152); 
+    padding-top: 1em;
+    margin-top: 2em;
+  }
+
+  h3{
+    font-family: 'Bree Serif';
+    color: rgb(87, 87, 152); 
+  }
+
+  p{
+    font-family: 'Bree Serif';
+    color: rgb(87, 87, 152); 
+    font-size: x-large;
+  }
+
+  .outline_about {
+    border: 10px solid rgb(87, 87, 152);
+    background-color: rgb(250, 170, 183);
+    border-radius: 25px;
+    padding: 20px;
+
+  }
+
+  .about{
+    margin: 10px;
+    background-color: rgb(87, 87, 152);
+    border:10px solid rgb(250, 170, 183);
+    border-radius: 500px;
+    -webkit-border-radius: 800px;
+    -moz-border-radius: 500px;    
+  }
+
+
+  .titles{
+    margin: 20px;
+    padding: 0.5em;
+    background-color: rgb(250, 170, 183);
+    border:10px solid rgb(87, 87, 152);
+    border-radius: 500px;
+    -webkit-border-radius: 900px;
+    -moz-border-radius: 600px;   
+     
+  }
+
+
+  .hover12 img {
+    border: 10px solid rgb(87, 87, 152);
+    opacity: 1;
+    -webkit-transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    border-radius: 25px;
+    padding: 20px;
+    max-width: 100%;
+    max-height: 100%;
+  }
+  
+  .hover12 img:hover{
+    opacity: 0.4;
+  }
+  
+  .image_border {
+    border: 10px solid rgb(87, 87, 152);
+    border-radius: 25px;
+    padding: 20px;
+    background-color: rgb(250, 170, 183);
+    margin: 1em;
+    padding: 1em;  
+  }
