@@ -1,14 +1,28 @@
 {
   "files": {
-    "main.css": "/final/static/css/main.073c9b0a.css",
-    "main.js": "/final/static/js/main.6a8ccbe8.js",
-    "static/media/logo.svg": "/final/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/final/static/css/main.9c3c1a7a.css",
+    "main.js": "/final/static/js/main.d0fcd38c.js",
+    "static/media/don_jose.png": "/final/static/media/don_jose.6ca888763952be612572.png",
+    "static/media/yhangy.png": "/final/static/media/yhangy.1976ad9f68cf29a25061.png",
+    "static/media/zoo.png": "/final/static/media/zoo.045f1826ac2219ad0be9.png",
+    "static/media/about.png": "/final/static/media/about.7530e07c7a4f4e3ab93d.png",
+    "static/media/storyboard.png": "/final/static/media/storyboard.debdee967429eff8a9ec.png",
+    "static/media/bree-serif-v17-latin-regular.svg": "/final/static/media/bree-serif-v17-latin-regular.2bd9ceafd2435a0ca9f5.svg",
+    "static/media/bayon-v29-latin-regular.svg": "/final/static/media/bayon-v29-latin-regular.58c8afe8bf58798a2123.svg",
+    "static/media/bree-serif-v17-latin-regular.ttf": "/final/static/media/bree-serif-v17-latin-regular.5fc10440fb56ca14105e.ttf",
+    "static/media/bayon-v29-latin-regular.ttf": "/final/static/media/bayon-v29-latin-regular.0a7f451f53abe9e67883.ttf",
+    "static/media/bree-serif-v17-latin-regular.woff": "/final/static/media/bree-serif-v17-latin-regular.e41d48caf0cc2f4af393.woff",
+    "static/media/bree-serif-v17-latin-regular.eot": "/final/static/media/bree-serif-v17-latin-regular.58ffb401c9064133ef88.eot",
+    "static/media/bree-serif-v17-latin-regular.woff2": "/final/static/media/bree-serif-v17-latin-regular.bbec388ecb16678b6449.woff2",
+    "static/media/bayon-v29-latin-regular.woff": "/final/static/media/bayon-v29-latin-regular.cf4f5d4ef29b9a6c001a.woff",
+    "static/media/bayon-v29-latin-regular.eot": "/final/static/media/bayon-v29-latin-regular.7c55173f61db1074f97d.eot",
+    "static/media/bayon-v29-latin-regular.woff2": "/final/static/media/bayon-v29-latin-regular.5249a36df768052b0f14.woff2",
     "index.html": "/final/index.html",
-    "main.073c9b0a.css.map": "/final/static/css/main.073c9b0a.css.map",
-    "main.6a8ccbe8.js.map": "/final/static/js/main.6a8ccbe8.js.map"
+    "main.9c3c1a7a.css.map": "/final/static/css/main.9c3c1a7a.css.map",
+    "main.d0fcd38c.js.map": "/final/static/js/main.d0fcd38c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6a8ccbe8.js"
+    "static/css/main.9c3c1a7a.css",
+    "static/js/main.d0fcd38c.js"
   ]
 }
