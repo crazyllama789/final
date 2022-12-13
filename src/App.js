@@ -19,7 +19,7 @@ function App() {
         <p style={{ textAlign:'center', marginLeft:'20%', marginRight:'20%',
     marginTop:'1em'}}> Also because I am 
     graduating I want to explore if I want to be primarly a front-end developer or back-end developer. I really loved
-    the user interface, so I think I will be looking into work full-stack, so I can do both. 
+    the user interface, so I think I will be looking into working full-stack, so I can do both. 
         </p> 
         <p style={{ textAlign:'center', marginLeft:'20%', marginRight:'20%',
     marginTop:'1em'}}> 
